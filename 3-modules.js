@@ -7,6 +7,9 @@ const data = require('./6-alternative-exports')
 
 console.log(data)
 
+require('./7-function')
+
+
 sayHi('susan')
 sayHi(john)
 sayHi(peter)
