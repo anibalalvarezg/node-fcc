@@ -1,0 +1,24 @@
+{
+  "name": "node-fcc",
+  "version": "1.0.0",
+  "description": "node-fcc",
+  "main": "1-intro.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anibalalvarezg/node-fcc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anibalalvarezg/node-fcc/issues"
+  },
+  "homepage": "https://github.com/anibalalvarezg/node-fcc#readme"
+}
